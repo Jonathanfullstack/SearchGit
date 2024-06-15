@@ -1,5 +1,6 @@
 <p align="center">
-  <img alt="" src="https://i.pinimg.com/originals/78/a8/01/78a801e675363a24cde11a63bb92d48e.png" width="100%">
+  <img alt="" src="![image](https://github.com/Jonathanfullstack/SearchGit/assets/141459667/55ce0a83-a649-4836-b94f-b533c450337f)
+" width="100%">
 </p>
 
 ## 🚀 Tecnologias
