@@ -1,7 +1,5 @@
-<p align="center">
-  <img alt="" src="![image](https://github.com/Jonathanfullstack/SearchGit/assets/141459667/55ce0a83-a649-4836-b94f-b533c450337f)
-" width="100%">
-</p>
+![image](https://github.com/Jonathanfullstack/SearchGit/assets/141459667/d019ec68-113f-4ebe-b3b3-4f1fcf299004)
+
 
 ## 🚀 Tecnologias
 
